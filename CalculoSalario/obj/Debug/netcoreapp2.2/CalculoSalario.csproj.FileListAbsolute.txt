@@ -1,0 +1,11 @@
+C:\Temp\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp2.2\CalculoSalario.deps.json
+C:\Temp\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp2.2\CalculoSalario.runtimeconfig.json
+C:\Temp\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp2.2\CalculoSalario.runtimeconfig.dev.json
+C:\Temp\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp2.2\CalculoSalario.dll
+C:\Temp\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp2.2\CalculoSalario.pdb
+C:\Temp\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp2.2\CalculoSalario.csprojAssemblyReference.cache
+C:\Temp\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp2.2\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Temp\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp2.2\CalculoSalario.AssemblyInfoInputs.cache
+C:\Temp\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp2.2\CalculoSalario.AssemblyInfo.cs
+C:\Temp\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp2.2\CalculoSalario.dll
+C:\Temp\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp2.2\CalculoSalario.pdb
